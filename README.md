@@ -9,6 +9,7 @@ DEV-TEST	START
 DEV-TEST1	STOP
 
 
+This Script will run on Basis of Tags and no Database name will be mentioned. Eg: If you want to Use Start Script. Update teh Tag as "DEV-TEST"	"START" in Database and update the Env as KEY DEV-TEST and VALUE	START .
 
 ENV VARIABLES
 
